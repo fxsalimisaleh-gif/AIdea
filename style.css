@@ -207,7 +207,7 @@ body {
     width: 100%;
     display: flex;
     align-items: center;
-    background-image: url('image/banner1.png');
+    background-image: url('images/banner1.png');
     background-size: cover;
     background-position: center right;
     background-repeat: no-repeat;
